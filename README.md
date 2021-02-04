@@ -23,14 +23,14 @@ TCP/IP에 대해서 공부하고 적용해보는 것을 목표로 삼고, 이 �
 ## 기능별 영상 및 간단한 설명
 
 #### 회원가입 및 로그인
-[![회원가입, 로그인](image/signup.jpg)](https://youtu.be/SZqjTXT8-FM) 
+[![회원가입, 로그인](https://github.com/gaeundev/game-playbro/blob/main/image/signup.JPG)](https://youtu.be/SZqjTXT8-FM) 
 - 회원가입
 - 로그인
 
 <br>
 
 #### 대기실 및 방 채팅
-[![방나누기 및 채팅](image/chatting.jpg)](https://youtu.be/x-t830Ob45E) 
+[![방나누기 및 채팅](https://github.com/gaeundev/game-playbro/blob/main/image/chatting.JPG)](https://youtu.be/x-t830Ob45E) 
 - 대기실, 방 채팅
 - 방 인원수 2명으로 제한
 - 새로운 채팅이 오면 빨간색 New 아이콘이 뜨게되는데, 채팅을 보고 있다면 아이콘이 뜨지 않음
@@ -38,7 +38,7 @@ TCP/IP에 대해서 공부하고 적용해보는 것을 목표로 삼고, 이 �
 <br>
 
 #### 게임플레이 - 일반몬스터
-[![게임플레이#1](image/play-1.jpg)](https://youtu.be/gFO1GQihsKI)
+[![게임플레이#1](https://github.com/gaeundev/game-playbro/blob/main/image/play-1.JPG)](https://youtu.be/gFO1GQihsKI)
 - 6마리의 몬스터가 랜덤하게 이동
 - 몬스터에게 방울을 맞춰서 가둔 후 터트려서 죽일 수 있음
 - 죽은 몬스터는 아이템으로 맵에 떨어짐
@@ -49,7 +49,7 @@ TCP/IP에 대해서 공부하고 적용해보는 것을 목표로 삼고, 이 �
 <br>
 
 #### 게임플레이 - 보스
-[![게임플레이#2](image/play-2.jpg)](https://youtu.be/xoex9W2xWbM) 
+[![게임플레이#2](https://github.com/gaeundev/game-playbro/blob/main/image/play-2.JPG)](https://youtu.be/xoex9W2xWbM) 
 - 보스는 체력바가 존재한다
 - 방울을 쏴서 맞추어서 보스의 체력을 깎을 수 있다
 - 보스는 4개으로 패턴을 랜덤하게 아이템을 던져 공격한다
@@ -60,4 +60,4 @@ TCP/IP에 대해서 공부하고 적용해보는 것을 목표로 삼고, 이 �
 <br>
 
 #### 안드로이드에서 게임 플레이
-[![게임플레이#모바일](image/mobileplay.jpg)](https://youtu.be/b8S2yISEgeM)
+[![게임플레이#모바일](https://github.com/gaeundev/game-playbro/blob/main/image/mobileplay.JPG)](https://youtu.be/b8S2yISEgeM)
